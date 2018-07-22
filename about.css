@@ -1,0 +1,47 @@
+#container1
+{
+	bottom:50px;
+	right:20px;
+	padding-left:100px;
+	background-image:url('ag10.jpg');
+	background-size: 100%;
+	background-repeat:no-repeat;
+	margin:auto;
+}
+#container2
+{
+	bottom:-100px;
+	margin-left:-20px;
+	padding-left:-328px;
+	background-image:url('ag8.jpg');
+	background-size: 100%;
+	background-repeat:no-repeat;
+	margin:auto;
+	padding-bottom: -500px;
+}
+p
+{
+    font-size: 17px;
+    color:black;
+    font-family: 'Forum', cursive;
+    font-style:normal;
+    padding-left:580px;
+    padding-right: 25px;
+   margin-top: 35px;
+}
+#p1
+{
+    font-size: 17px;
+    color:black;
+    font-family: 'Forum', cursive;
+    font-style:normal;
+    padding-left:50px;
+    padding-right: -710px;
+    margin-top: 35px;
+    margin-right:650px;
+}
+body
+{
+	background-image:url("blu1.jpg");
+	opacity:0.8;
+}
